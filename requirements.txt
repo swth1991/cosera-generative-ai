@@ -1,3 +1,4 @@
+dotenv
 numpy
 pandas
 tqdm
@@ -11,3 +12,6 @@ peft
 loralib
 evaluate
 rouge_score
+huggingface_hub
+bitsandbytes
+trl
